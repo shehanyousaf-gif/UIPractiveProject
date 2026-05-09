@@ -233,17 +233,16 @@ main #mainleft {
 }
 
 #maincenterbottom {
-  width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 20px;
+  padding: 20px  0;
   background-color: #e8e8e7;
-  width: 550px;
+  width: 570px;
   border-radius: 20px;
   position: absolute;
   top: 85%;
-  left: 38%;
+  left: 37.5%;
 }
 
 #bottom1, #bottom2, #bottom3 {
